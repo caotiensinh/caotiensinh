@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/future-tech-banner.webp" alt="Mr. Cao — Network, Systems, Cybersecurity and AI" width="100%" />
-</p>
+![Mr. Cao — Network, Systems, Cybersecurity and AI](https://raw.githubusercontent.com/caotiensinh/caotiensinh/main/assets/future-tech-banner.webp)
 
 <p align="center">
   <strong>Network Engineering · Cybersecurity · Monitoring · AI / Computer Vision · Edge Systems · Automation</strong>
