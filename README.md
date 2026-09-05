@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Mr. Cao — Software & Systems Engineer" width="100%" />
+  <img src="./assets/future-tech-banner.webp" alt="Mr. Cao — Network, Systems, Cybersecurity and AI" width="100%" />
 </p>
 
 <p align="center">
